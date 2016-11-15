@@ -1,0 +1,6 @@
+D:\Projects\RudTask3_2\RudTask3_2\bin\Debug\RudTask3_2.exe.config
+D:\Projects\RudTask3_2\RudTask3_2\bin\Debug\RudTask3_2.exe
+D:\Projects\RudTask3_2\RudTask3_2\bin\Debug\RudTask3_2.pdb
+D:\Projects\RudTask3_2\RudTask3_2\obj\Debug\RudTask3_2.csprojResolveAssemblyReference.cache
+D:\Projects\RudTask3_2\RudTask3_2\obj\Debug\RudTask3_2.exe
+D:\Projects\RudTask3_2\RudTask3_2\obj\Debug\RudTask3_2.pdb
